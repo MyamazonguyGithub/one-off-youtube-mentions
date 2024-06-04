@@ -1,0 +1,4 @@
+text.txt
+sandbox/
+.env
+**/__pycache__/
